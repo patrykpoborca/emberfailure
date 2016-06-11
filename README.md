@@ -2,4 +2,5 @@ My ember browserify is failing. I add `import Remarkable from 'npm:remarkable';`
 
 
 * [Failure image](http://puu.sh/pp8Fr/765aca5a74.png)
+* [Node shows the module] (http://puu.sh/pp96q/a1a678e379.png)
 
